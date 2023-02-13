@@ -1,20 +1,18 @@
 <div align="center">
 
 # Trus Egor
-
 ### QA Engeneer
-
-### **Uses** <br><br>
-	
+---
+### **Uses** <br><br>	
 <div>
-  	<img alt="Git" width="35px" src="https://user-images.githubusercontent.com/89486551/143319775-c711ac23-04f8-44dd-9a0b-ea3698467e9e.png" />
-	<img alt="Markdown" width="35px" src="https://user-images.githubusercontent.com/89486551/143319781-e0cb8223-f5db-4cfd-b2f8-9fab2e227023.png" />
-	<img alt="charles" width="35px" src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" />
-	<img alt="android-studio" width="35px" src="https://user-images.githubusercontent.com/89486551/143319797-01713acf-1cc6-49c9-ae92-d520d55cef17.png" />
-	<img alt="Postman" width="35px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
-	<img alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-	
-	
+  	<img alt="Git Bash" width="35px" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+	<img alt="Markdown" width="35px" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
+	<img alt="Android-Studio" width="35px" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
+	<img alt="Postman" width="35px" height="35px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
+	<img alt="VSCode" width="35px" height="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+	<img alt="Charles" width="35px" height="35px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
+
+---
 ### **Connect with me**
 
 | [LinkedIn][li] | [Telegram][tg] |
